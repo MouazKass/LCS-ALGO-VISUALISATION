@@ -7,6 +7,9 @@ An interactive web-based visualization tool for understanding the Longest Common
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+## LIVE DEMO
+- https://mouazkass.github.io/LCS-ALGO-VISUALISATION/
+
 ## 🚀 Features
 
 - **Interactive Visualization**: Step-by-step animation of the LCS algorithm
